@@ -300,13 +300,13 @@ For questions, suggestions, or collaboration:
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](docs/images/1.png)
+![Login Page](https://raw.githubusercontent.com/murilolivorato/react-python-ci-cd-deploy/main/docs/images/1.png)
 
 ### Dashboard
-![Dashboard](docs/images/2.png)
+![Dashboard](https://raw.githubusercontent.com/murilolivorato/react-python-ci-cd-deploy/main/docs/images/2.png)
 
 ### Edit Profile
-![Edit Profile](docs/images/3.png)
+![Edit Profile](https://raw.githubusercontent.com/murilolivorato/react-python-ci-cd-deploy/main/docs/images/3.png)
 
 <div align="center">
   <h3>⭐ Star This Repository ⭐</h3>
