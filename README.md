@@ -300,13 +300,13 @@ For questions, suggestions, or collaboration:
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](docs/images/login.png)
+![Login Page](docs/images/1.png)
 
 ### Dashboard
-![Dashboard](docs/images/dashboard.png)
+![Dashboard](docs/images/2.png)
 
 ### Edit Profile
-![Edit Profile](docs/images/profile.png)
+![Edit Profile](docs/images/3.png)
 
 <div align="center">
   <h3>⭐ Star This Repository ⭐</h3>
