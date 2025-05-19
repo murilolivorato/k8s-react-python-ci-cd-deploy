@@ -300,13 +300,13 @@ For questions, suggestions, or collaboration:
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](https://raw.githubusercontent.com/murilolivorato/k8s-react-python-ci-cd-deploy/main/docs1.png)
+![Login Page](docs/images/login.png)
 
 ### Dashboard
-![Dashboard](https://raw.githubusercontent.com/murilolivorato/k8s-react-python-ci-cd-deploy/main/docs2.png)
+![Dashboard](docs/images/dashboard.png)
 
 ### Edit Profile
-![Edit Profile](https://raw.githubusercontent.com/murilolivorato/k8s-react-python-ci-cd-deploy/main/docs3.png)
+![Edit Profile](docs/images/profile.png)
 
 <div align="center">
   <h3>⭐ Star This Repository ⭐</h3>
