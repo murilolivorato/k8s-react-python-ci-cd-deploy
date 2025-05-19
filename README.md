@@ -125,8 +125,10 @@ Backend: http://localhost:8000
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/murilolivorato/react-python-ci-cd-deploy.git
-   cd react-python-ci-cd-deploy
+   git clone https://github.com/murilolivorato/k8s-react-python-ci-cd-deploy
+.git
+   cd k8s-react-python-ci-cd-deploy
+
    ```
 
 2. Environment Setup:
@@ -238,12 +240,9 @@ The project includes a GitHub Actions workflow that:
    - Verify CORS settings
    - Ensure backend is running
 
-2. **Database connection issues**
-   - Verify database credentials
-   - Check network connectivity
-   - Ensure database is running
-
-3. **Kubernetes deployment issues**
+2. **Database connection issues**k8s-laravel-quasar-deploy
+k8s-laravel-quasar-deploy
+k8s-laravel-quasar-deploy
    - Check pod status: `kubectl get pods -n app`
    - View pod logs: `kubectl logs <pod-name> -n app`
    - Check ingress: `kubectl get ingress -n app`
@@ -301,18 +300,20 @@ For questions, suggestions, or collaboration:
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](docs/images/1.png)
+![Login Page](https://raw.githubusercontent.com/murilolivorato/k8s-react-python-ci-cd-deploy/main/docs1.png)
 
 ### Dashboard
-![Dashboard](docs/images/2.png)
+![Dashboard](https://raw.githubusercontent.com/murilolivorato/k8s-react-python-ci-cd-deploy/main/docs2.png)
 
 ### Edit Profile
-![Edit Profile](docs/images/3.png)
+![Edit Profile](https://raw.githubusercontent.com/murilolivorato/k8s-react-python-ci-cd-deploy/main/docs3.png)
 
 <div align="center">
   <h3>⭐ Star This Repository ⭐</h3>
   <p>Your support helps us improve and maintain this project!</p>
-  <a href="https://github.com/murilolivorato/react-python-ci-cd-deploy/stargazers">
-    <img src="https://img.shields.io/github/stars/murilolivorato/react-python-ci-cd-deploy?style=social" alt="GitHub Stars">
+  <a href="https://github.com/murilolivorato/k8s-react-python-ci-cd-deploy
+/stargazers">
+    <img src="https://img.shields.io/github/stars/murilolivorato/k8s-react-python-ci-cd-deploy
+?style=social" alt="GitHub Stars">
   </a>
 </div>
